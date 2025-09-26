@@ -15,7 +15,7 @@ EDUCATION
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-Test Automation University
+![Test Automation University](https://img.shields.io/badge/Test%20Automation%20University-%23FF6900.svg?style=for-the-badge&logo=testautomationu&logoColor=white)
 
 IDEs/Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
