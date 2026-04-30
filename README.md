@@ -35,6 +35,7 @@ Test Stack
 IDEs/Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23ED8B00.svg?style=for-the-badge&logo=Cursor&logoColor=grey)
 
 Language
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
